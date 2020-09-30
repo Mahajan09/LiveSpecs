@@ -1,3 +1,5 @@
+Contributed to Twowaits by Rishabh Maurya (https://github.com/rishabh115/) for educational purposes.
+
 # LiveSpecs
 This is a demo project based on Augmented Face of AR Core SDK.
 It will align a sunglass aptly on the face of the user.
